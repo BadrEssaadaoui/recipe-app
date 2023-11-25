@@ -1,0 +1,7 @@
+{"username": "testuser", "password": "testpassword", "email": "test@example.com"}=>http://localhost:8000/api/register/
+'{"username": "testuser", "password": "testpassword"}'=>http://localhost:8000/api/login/
+"Authorization: Token YOUR_AUTH_TOKEN" => http://localhost:8000/api/logout/
+
+{
+    "token": "8a2473eb72caea469ecc406b22a25d39d006426f"
+}
